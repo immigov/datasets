@@ -1,193 +1,270 @@
-State,Staff First Name,Staff Last Name,Job Title,Senator First Name,Senator Last Name,Staff Email
-AK,Kaleb,Froehlich,Chief of Staff,Lisa,Murkowski*,kaleb_froehlich@murkowski.senate.gov
-AK,Larry,Burton,Chief of Staff,Daniel,Sullivan,larry_burton@sullivan.senate.gov
-AK,Erik,Elam,Legislative Director,Daniel,Sullivan,erik_elam@sullivan.senate.gov
-AL,Dayne,Cutrell,Chief of Staff,Richard,Shelby,dayne_cutrell@shelby.senate.gov
-AL,Brennan,Johnson,General Counsel,Richard,Shelby,brennan_johnson@shelby.senate.gov
-AL,Clay,Armentrout,Legislative Director,Richard,Shelby,clay_armentrout@shelby.senate.gov
-AL,Stephen,Boyd,Chief of Staff,Thomas Hawley,Tuberville,stephen_boyd@tuberville.senate.gov
-AL,Emory,Cox,Financial Services Policy Adviser,Thomas Hawley,Tuberville,emory_cox@tuberville.senate.gov
-AL,Bradley,Hayes,Legislative Director,Thomas Hawley,Tuberville,bradley_hayes@tuberville.senate.gov
-AR,Toni-Marie,Higgins,Chief of Staff,John,Boozman*,toni-marie_higgins@boozman.senate.gov
-AR,Mackensie,McKernan,Legislative Director,John,Boozman*,mackensie_mckernan@boozman.senate.gov
-AR,Doug,Coutts,Chief of Staff,Thomas,Cotton,doug_coutts@cotton.senate.gov
-AR,Aaron,MacLean,Legislative Director,Thomas,Cotton,aaron_maclean@cotton.senate.gov
-AZ,Jen,Cox,Chief of Staff,Mark,Kelly,jennifer_cox@kelly.senate.gov
-AZ,Katie,Campbell,Legislative Director,Mark,Kelly,katie_campbell@kelly.senate.gov
-AZ,Meg,Joseph,Chief of Staff,Kyrsten,Sinema,meg_joseph@sinema.senate.gov
-CA,David,Grannis,Chief of Staff,Dianne,Feinstein,david_grannis@feinstein.senate.gov
-CA,Justin,Schardin,Legislative Assistant/Economic Policy Adviser,Dianne,Feinstein,justin_schardin@feinstein.senate.gov
-CA,Rachel,Bombach,Legislative Director,Dianne,Feinstein,rachel_bombach@feinstein.senate.gov
-CA,David,Montes,Chief of Staff,Alejandro,Padilla,david_montes@padilla.senate.gov
-CA,Josh,Esquivel,Legislative Director,Alejandro,Padilla,joshua_esquivel@padilla.senate.gov
-CO,Jonathan,Davidson,Chief of Staff,Michael,Bennet,jonathan_davidson@bennet.senate.gov
-CO,Brian,Appel,Legislative Director,Michael,Bennet,brian_appel@bennet.senate.gov
-CO,Charlie,Anderson,Senior Adviser,Michael,Bennet,charlie_anderson@bennet.senate.gov
-CO,Kirtan,Mehta,Chief of Staff,John,Hickenlooper,kirtan_mehta@hickenlooper.senate.gov
-CO,Katie,Cassling,Legislative Director,John,Hickenlooper,katherine_cassling@hickenlooper.senate.gov
-CT,Joel,Kelsey,Chief of Staff,Richard,Blumenthal*#,joel_kelsey@blumenthal.senate.gov
-CT,Colleen,Bell,Legislative Director,Richard,Blumenthal*#,colleen_bell@blumenthal.senate.gov
-CT,Allison,Herwitt,Chief of Staff,Christopher,Murphy,allison_herwitt@murphy.senate.gov
-DE,Emily,Spain,Chief of Staff,Thomas,Carper*,emily_spain@carper.senate.gov
-DE,Lucy,Xiao,Legislative Director,Thomas,Carper*,lucy_xiao@carper.senate.gov
-DE,Jon,Stahler,Chief of Staff,Christopher,Coons,jonathan_stahler@coons.senate.gov
-DE,Brian,Winseck,Legislative Director,Christopher,Coons,brian_winseck@coons.senate.gov
-FL,Mike,Needham,Chief of Staff,Marco,Rubio,mike_needham@rubio.senate.gov
-FL,Lauren,Reamy,Legislative Director,Marco,Rubio,lauren_reamy@rubio.senate.gov
-FL,Craig,Carbone,Chief of Staff,Richard,Scott,craig_carbone@rickscott.senate.gov
-FL,Jon,Foltz,Legislative Director,Richard,Scott,jon_foltz@rickscott.senate.gov
-GA,Mark,Libell,Chief of Staff,Raphael,Warnock,mark_libell@warnock.senate.gov
-GA,Josh,Delaney,Legislative Director,Raphael,Warnock,josh_delaney@warnock.senate.gov
-HI,Alan,Yamamoto,Chief of Staff,Mazie,Hirono,alan_yamamoto@hirono.senate.gov
-HI,Jeremy,Horan,Legislative Director,Mazie,Hirono,jeremy_horan@hirono.senate.gov
-HI,Eric,Einhorn,Chief of Staff,Brian,Schatz,eric_einhorn@schatz.senate.gov
-HI,Arun,Revana,Legislative Director,Brian,Schatz,arun_revana@schatz.senate.gov
-IA,Lisa,Goeas,Chief of Staff,Joni,Ernst,lisa_goeas@ernst.senate.gov
-IA,Jena,McNeill,Legislative Director,Joni,Ernst,jena_mcneill@ernst.senate.gov
-IA,Aaron,Cummings,Chief of Staff,Chuck,Grassley,aaron_cummings@grassley.senate.gov
-IA,James,Rice,Legislative Director,Chuck,Grassley,james_rice@grassley.senate.gov
-ID,John,Hoehne,Chief of Staff,Michael,Crapo,john_hoehne@crapo.senate.gov
-ID,Molly,Carpenter,Legislative Director,Michael,Crapo,molly_carpenter@crapo.senate.gov
-ID,Ryan,White,Chief of Staff,James,Risch,ryan_white@risch.senate.gov
-ID,Charles,Adams,Legislative Director,James,Risch,charles_adams@risch.senate.gov
-IL,Kaitlin,Fahey,Chief of Staff,Ladda,Duckworth*#,kaitlin_fahey@duckworth.senate.gov
-IL,Ben,Rhodeside,Legislative Director,Ladda,Duckworth*#,benjamin_rhodeside@duckworth.senate.gov
-IL,Jasmine,Dimitriou,Legislative Director,Richard,Durbin,jasmine_hunt@durbin.senate.gov
-IN,Josh,Kelley,Chief of Staff,Mike,Braun,joshua_kelley@braun.senate.gov
-IN,Katie,Bailey,Legislative Director,Mike,Braun,katie_bailey@braun.senate.gov
-IN,John,Connell,Chief of Staff,Todd,Young,john_connell@young.senate.gov
-IN,Lauren,O'Brien,Legislative Director,Todd,Young,lauren_obrien@young.senate.gov
-KS,Brent,Robertson,Chief of Staff,Roger,Marshall,brent_robertson@marshall.senate.gov
-KS,Pace,McMullan,Legislative Director,Roger,Marshall,pace_mcmullan@marshall.senate.gov
-KS,Brennen,Britton,Chief of Staff,Jerry,Moran*,brennen_britton@moran.senate.gov
-KS,Tom,Bush,Legislative Director,Jerry,Moran*,tom_bush@moran.senate.gov
-KY,Terry,Carmack,Chief of Staff,Addison,McConnell,terry_carmack@mcconnell.senate.gov
-KY,Katelyn,Bunning,Legislative Director,Addison,McConnell,katelyn_bunning@mcconnell.senate.gov
-KY,William,Henderson,Chief of Staff,Randal,Paul,william_henderson@paul.senate.gov
-LA,James,Quinn,Chief of Staff,William,Cassidy,james_quinn@cassidy.senate.gov
-LA,David,Stokes,Chief of Staff,John,Kennedy,david_stokes@kennedy.senate.gov
-LA,John,Steitz,Legislative Director,John,Kennedy,john_steitz@kennedy.senate.gov
-MA,John,Walsh,Chief of Staff,Edward,Markey,john_walsh@markey.senate.gov
-MA,Jon,Donenberg,Chief of Staff,Elizabeth,Warren*,jon_donenberg@warren.senate.gov
-MA,Beth,Pearson,Legislative Director,Elizabeth,Warren*,beth_pearson@warren.senate.gov
-MD,Chris,Lynch,Chief of Staff,Benjamin,Cardin,chris_lynch@cardin.senate.gov
-MD,Ron,Storhaug,Senior Adviser,Benjamin,Cardin,ron_storhaug@sbc.senate.gov
-MD,Tricia,Russell,Chief of Staff,Christopher,Van Hollen*#,tricia_russell@vanhollen.senate.gov
-MD,Sarah,Schenning,Legislative Director,Christopher,Van Hollen*#,sarah_schenning@vanhollen.senate.gov
-ME,Steve,Abbott,Chief of Staff,Susan,Collins,steve_abbott@collins.senate.gov
-ME,Kathleen,Connery Dawe,Chief of Staff,Angus,King,kathleen_connery_dawe@king.senate.gov
-ME,Morgan,Cashwell,Legislative Director,Angus,King,morgan_cashwell@king.senate.gov
-MI,Eric,Feldman,Chief of Staff,Gary,Peters,eric_feldman@peters.senate.gov
-MI,Matt,VanKuiken,Chief of Staff,Deborah,Stabenow,matt_vankuiken@stabenow.senate.gov
-MI,Emily,Carwell,Legislative Director,Deborah,Stabenow,emily_carwell@stabenow.senate.gov
-MN,Lizzy,Peluso,Chief of Staff,Amy,Klobuchar*#,elizabeth_peluso@rules.senate.gov
-MN,Doug,Calidas,Legislative Director,Amy,Klobuchar*#,doug_calidas@klobuchar.senate.gov
-MN,Doug,Calidas,Legislative Director,Amy,Klobuchar*#,doug_calidas@klobuchar.senate.gov
-MN,Jeff,Lomonaco,Chief of Staff,Tina,Smith,jeff_lomonaco@smith.senate.gov
-MN,Gohar,Sedighi,Legislative Director,Tina,Smith,gohar_sedighi@smith.senate.gov
-MO,Dan,Burgess,Legislative Director,Roy,Blunt,dan_burgess@blunt.senate.gov
-MO,Kyle,Plotkin,Chief of Staff,Joshua,Hawley,kyle_plotkin@hawley.senate.gov
-MO,Eric,Teetsel,Legislative Director,Joshua,Hawley,eric_teetsel@hawley.senate.gov
-MS,Doug,Davis,Chief of Staff,Cindy,Hyde-Smith,doug_davis@hydesmith.senate.gov
-MS,Tim,Wolverton,Legislative Director,Cindy,Hyde-Smith,tim_wolverton@hydesmith.senate.gov
-MS,Michelle,Richardson,Chief of Staff,Roger,Wicker,michelle_richardson@wicker.senate.gov
-MS,Robert,Murray,Legislative Director,Roger,Wicker,robert_murray@wicker.senate.gov
-MT,Jason,Thielman,Chief of Staff,Steven,Daines,jason_thielman@daines.senate.gov
-MT,Dylan,Laslovich,Chief of Staff,Jon,Tester,dylan_laslovich@tester.senate.gov
-MT,Justin,Folsom,Legislative Director,Jon,Tester,justin_folsom@tester.senate.gov
-NC,Natasha,Hickman,Chief of Staff,Richard,Burr#,natasha_hickman@burr.senate.gov
-NC,Chris,Toppings,Legislative Director,Richard,Burr#,chris_toppings@burr.senate.gov
-NC,Ted,Lehman,Chief of Staff,Thomas,Tillis,ted_lehman@tillis.senate.gov
-NC,Shil,Patel,Legislative Director,Thomas,Tillis,shil_patel@tillis.senate.gov
-NC,Shil,Patel,Legislative Director,Thomas,Tillis,shil_patel@tillis.senate.gov
-ND,Mark,Gruman,Chief of Staff,Kevin,Cramer,mark_gruman@cramer.senate.gov
-ND,Micah,Chambers,Legislative Director,Kevin,Cramer,micah_chambers@cramer.senate.gov
-ND,Tony,Eberhard,Chief of Staff,John,Hoeven,tony_eberhard@hoeven.senate.gov
-ND,Tyler,Hardy,Deputy Legislative Director,John,Hoeven,tyler_hardy@hoeven.senate.gov
-ND,Dan,Auger,Legislative Director,John,Hoeven,daniel_auger@hoeven.senate.gov
-ND,Dan,Auger,Legislative Director,John,Hoeven,daniel_auger@hoeven.senate.gov
-NE,Joe,Hack,Chief of Staff,Debra,Fischer,joe_hack@fischer.senate.gov
-NE,Ray,Sass,Chief of Staff,Benjamin,Sasse,raymond_sass@sasse.senate.gov
-NE,Patrick,Lehman,Legislative Director,Benjamin,Sasse,patrick_lehman@sasse.senate.gov
-NE,Patrick,Lehman,Legislative Director,Benjamin,Sasse,patrick_lehman@sasse.senate.gov
-NH,Kelly,Boyer,Chief of Staff,Margaret,Hassan*#,kelly_boyer@hassan.senate.gov
-NH,Dave,Christie,Legislative Director,Margaret,Hassan*#,dave_christie@hassan.senate.gov
-NH,Chad,Kreikemeier,Chief of Staff,Jeanne,Shaheen,chad_kreikemeier@shaheen.senate.gov
-NH,Ariel,Marshall,Legislative Director,Jeanne,Shaheen,ariel_marshall@shaheen.senate.gov
-NJ,Matt,Klapper,Chief of Staff,Cory,Booker,matt_klapper@booker.senate.gov
-NJ,Veronica,Duron,Legislative Director,Cory,Booker,veronica_duron@booker.senate.gov
-NJ,Fred,Turner,Chief of Staff,Robert,Menendez,fred_turner@menendez.senate.gov
-NJ,Rebecca,Schatz,Legislative Director,Robert,Menendez,rebecca_schatz@menendez.senate.gov
-NJ,Jason,Tuber,Senior Adviser,Robert,Menendez,jason_tuber@menendez.senate.gov
-NM,Rebecca,Avitia,Chief of Staff,Martin,Heinrich,rebecca_avitia@heinrich.senate.gov
-NM,Dominic,Saavedra,Legislative Director,Martin,Heinrich,dominic_saavedra@heinrich.senate.gov
-NM,Carlos,Sanchez,Chief of Staff,Ben Ray,Lujan,carlos_sanchez@lujan.senate.gov
-NM,Graham,Mason,Legislative Director,Ben Ray,Lujan,graham_mason@lujan.senate.gov
-NV,Rey,Benitez,Chief of Staff,Catherine,Cortez Masto,reynaldo_benitez@cortezmasto.senate.gov
-NV,Dara,Cohen,Chief of Staff,Jacky,Rosen*,dara_cohen@rosen.senate.gov
-NV,Grant,Dubler,Legislative Director,Jacky,Rosen*,grant_dubler@rosen.senate.gov
-NY,Jess,Fassler,Chief of Staff,Kirsten,Gillibrand#,jess_fassler@gillibrand.senate.gov
-NY,Keith,Castaldo,General Counsel,Kirsten,Gillibrand#,keith_castaldo@gillibrand.senate.gov
-NY,Brooke,Jamison,Legislative Director,Kirsten,Gillibrand#,brooke_jamison@gillibrand.senate.gov
-NY,Meghan,Taira,Legislative Director,Charles,Schumer,meghan_taira@schumer.senate.gov
-OH,Sarah,Benzing,Chief of Staff,Sherrod,Brown*#,sarah_benzing@brown.senate.gov
-OH,Jeremy,Hekhuis,Legislative Director,Sherrod,Brown*#,jeremy_hekhuis@brown.senate.gov
-OH,Kevin,Smith,Chief of Staff,Robert,Portman,kevin_smith@portman.senate.gov
-OK,Luke,Holland,Chief of Staff,James,Inhofe,luke_holland@inhofe.senate.gov
-OK,Dan,Hillenbrand,Legislative Director,James,Inhofe,dan_hillenbrand@inhofe.senate.gov
-OK,Dan,Hillenbrand,Legislative Director,James,Inhofe,dan_hillenbrand@inhofe.senate.gov
-OK,Michelle,Altman,Chief of Staff,James,Lankford,michelle_altman@lankford.senate.gov
-OK,Sarah,Seitz,Legislative Director,James,Lankford,sarah_seitz@lankford.senate.gov
-OR,Mike,Zamore,Chief of Staff,Jeffrey,Merkley*,michael_zamore@merkley.senate.gov
-OR,Elvia,Montoya,Legislative Director,Jeffrey,Merkley*,elvia_montoya@merkley.senate.gov
-OR,Jeff,Michels,Chief of Staff,Ronald,Wyden*,jeff_michels@wyden.senate.gov
-OR,Isaiah,Akin,Legislative Director,Ronald,Wyden*,isaiah_akin@wyden.senate.gov
-OR,Emily,Zahnle-Hostetler,Senior Digital Strategy Director,Ronald,Wyden*,emily_zahnle-hostetler@wyden.senate.gov
-PA,Kristen,Gentile,Chief of Staff,Robert,Casey*#,kris_gentile@casey.senate.gov
-PA,Derek,Miller,Legislative Director,Robert,Casey*#,derek_miller@casey.senate.gov
-PA,Dan,Brandt,Chief of Staff,Patrick,Toomey*#,daniel_brandt@toomey.senate.gov
-PA,Theo,Merkel,Legislative Director,Patrick,Toomey*#,theo_merkel@toomey.senate.gov
-RI,Neil,Campbell,Chief of Staff,John,Reed*,neil_campbell@reed.senate.gov
-RI,Sam,Goodstein,Chief of Staff,Sheldon,Whitehouse*#,sam_goodstein@whitehouse.senate.gov
-RI,Josh,Karetny,Legislative Director,Sheldon,Whitehouse*#,josh_karetny@whitehouse.senate.gov
-RI,Josh,Karetny,Legislative Director,Sheldon,Whitehouse*#,josh_karetny@whitehouse.senate.gov
-SC,Richard,Perry,Chief of Staff,Lindsey,Graham,richard_perry@lgraham.senate.gov
-SC,Jennifer,DeCasper,Chief of Staff,Timothy,Scott,jennifer_decasper@scott.senate.gov
-SC,Chuck,Cogar,Legislative Director,Timothy,Scott,chuck_cogar@scott.senate.gov
-SD,Rob,Skjonsberg,Chief of Staff,Michael,Rounds,rob_skjonsberg@rounds.senate.gov
-SD,Andrew,Rothe,Legislative Director,Michael,Rounds,andrew_rothe@rounds.senate.gov
-SD,Andrew,Rothe,Legislative Director,Michael,Rounds,andrew_rothe@rounds.senate.gov
-SD,Ryan,Nelson,Chief of Staff,John,Thune,ryan_nelson@thune.senate.gov
-TN,Charles,Flint,Chief of Staff,Marsha,Blackburn,charles_flint@blackburn.senate.gov
-TN,Sean,Farrell,Legislative Director,Marsha,Blackburn,sean_farrell@blackburn.senate.gov
-TN,John,Rader,Chief of Staff,William,Hagerty,john_rader@hagerty.senate.gov
-TX,Beth,Jafari,Chief of Staff,John,Cornyn,beth_jafari@cornyn.senate.gov
-TX,Stephen,Tausend,Legislative Director,John,Cornyn,stephen_tausend@judiciary-rep.senate.gov
-TX,Steve,Chartan,Chief of Staff,Rafael,Cruz,steve_chartan@cruz.senate.gov
-TX,Chris,Jaarda,Legislative Director,Rafael,Cruz,chris_jaarda@cruz.senate.gov
-UT,Allyson,Bell,Chief of Staff,Michael,Lee,allyson_bell@lee.senate.gov
-UT,Christy,Woodruff,Legislative Director,Michael,Lee,christy_woodruff@lee.senate.gov
-UT,Liz,Johnson,Chief of Staff,Willard,Romney,liz_johnson@romney.senate.gov
-VA,Mike,Henry,Chief of Staff,Timothy,Kaine,mjh@kaine.senate.gov
-VA,Nick,Barbash,Legislative Director,Timothy,Kaine,nick_barbash@kaine.senate.gov
-VA,Elizabeth,Falcone,Chief of Staff,Mark,Warner,elizabeth_falcone@warner.senate.gov
-VA,Lauren,Marshall,Legislative Director,Mark,Warner,lauren_marshall@warner.senate.gov
-VT,J.P.,Dowd,Chief of Staff,Patrick,Leahy*,john_dowd@leahy.senate.gov
-VT,Erica,Chabot,Legislative Director,Patrick,Leahy*,erica_chabot@leahy.senate.gov
-VT,Misty,Rebik,Chief of Staff,Bernard,Sanders,misty_rebik@sanders.senate.gov
-VT,Ari,Rabin-Havt,Legislative Director,Bernard,Sanders,ari_rabin-havt@sanders.senate.gov
-WA,Jami,Burgess,Chief of Staff,Maria,Cantwell,jami_burgess@cantwell.senate.gov
-WA,David,Marten,Legislative Director,Maria,Cantwell,david_marten@cantwell.senate.gov
-WA,Mindi,Linquist,Chief of Staff,Patricia,Murray,mindi_linquist@murray.senate.gov
-WA,Ben,Merkel,Legislative Director,Patricia,Murray,ben_merkel@murray.senate.gov
-WI,Ken,Reidy,Chief of Staff,Tammy,Baldwin*#,ken_reidy@baldwin.senate.gov
-WI,Dan,McCarthy,Legislative Director,Tammy,Baldwin*#,dan_mccarthy@baldwin.senate.gov
-WI,Meghan,Ladwig,Senior Policy Adviser/Appropriations Director,Tammy,Baldwin*#,meghan_ladwig@baldwin.senate.gov
-WI,Sean,Riley,Chief of Staff,Ronald,Johnson,sean_riley@ronjohnson.senate.gov
-WV,Joel,Brubaker,Chief of Staff,Shelley,Capito,joel_brubaker@capito.senate.gov
-WV,J.T.,Jezierski,Legislative Director,Shelley,Capito,jt_jezierski@capito.senate.gov
-WV,Lance,West,Chief of Staff,Joseph,Manchin,lance_west@manchin.senate.gov
-WV,Wes,Kungel,Legislative Director,Joseph,Manchin,wes_kungel@manchin.senate.gov
-WY,Bryn,Stewart,Legislative Director,John,Barrasso,bryn_stewart@barrasso.senate.gov
-WY,Kristin,Walker,Chief of Staff,Cynthia,Lummis,kristin_walker@lummis.senate.gov
-WY,Darrin,Munoz,Legislative Director,Cynthia,Lummis,darrin_munoz@lummis.senate.gov
+State,Staff First Name,Staff Last Name,Job Title,Senator First Name,Senator Last Name,Staff Email,Phone
+AK,Kaleb,Froehlich,Chief of Staff,Lisa,Murkowski*,kaleb_froehlich@murkowski.senate.gov,202-224-6665
+AK,Anne,McInerney,Senior Policy Counsel,Lisa,Murkowski*,anne_mcinerney@murkowski.senate.gov,202-224-6665
+AK,Larry,Burton,Chief of Staff,Daniel,Sullivan,larry_burton@sullivan.senate.gov,202-224-3004
+AK,David,Pigue,Legislative Assistant,Daniel,Sullivan,david_pigue@sullivan.senate.gov,202-224-3004
+AK,Erik,Elam,Legislative Director,Daniel,Sullivan,erik_elam@sullivan.senate.gov,202-224-3004
+AL,Dayne,Cutrell,Chief of Staff,Richard,Shelby,dayne_cutrell@shelby.senate.gov,202-224-5744
+AL,Brennan,Johnson,General Counsel,Richard,Shelby,brennan_johnson@shelby.senate.gov,202-224-5744
+AL,Clay,Armentrout,Legislative Director,Richard,Shelby,clay_armentrout@shelby.senate.gov,202-224-5744
+AL,Stephen,Boyd,Chief of Staff,Thomas Hawley,Tuberville,stephen_boyd@tuberville.senate.gov,202-224-4124
+AL,Emory,Cox,Financial Services Policy Adviser,Thomas Hawley,Tuberville,emory_cox@tuberville.senate.gov,202-224-4124
+AL,Bradley,Hayes,Legislative Director,Thomas Hawley,Tuberville,bradley_hayes@tuberville.senate.gov,202-224-4124
+AR,Toni-Marie,Higgins,Chief of Staff,John,Boozman*,toni-marie_higgins@boozman.senate.gov,202-224-4843
+AR,Mackensie,McKernan,Legislative Director,John,Boozman*,mackensie_mckernan@boozman.senate.gov,202-224-4843
+AR,Doug,Coutts,Chief of Staff,Thomas,Cotton,doug_coutts@cotton.senate.gov,202-224-2353
+AR,Aaron,MacLean,Legislative Director,Thomas,Cotton,aaron_maclean@cotton.senate.gov,202-224-2353
+AR,Alex,Hanson,"Senior Adviser, Economic Policy",Thomas,Cotton,alex_hanson@cotton.senate.gov,202-224-2353
+AZ,Jen,Cox,Chief of Staff,Mark,Kelly,jennifer_cox@kelly.senate.gov,202-224-2235
+AZ,Katie,Campbell,Legislative Director,Mark,Kelly,katie_campbell@kelly.senate.gov,202-224-2235
+AZ,Meg,Joseph,Chief of Staff,Kyrsten,Sinema,meg_joseph@sinema.senate.gov,202-224-4521
+AZ,Sylvia,Lee,Policy Adviser,Kyrsten,Sinema,sylvia_lee@sinema.senate.gov,202-224-4521
+CA,David,Grannis,Chief of Staff,Dianne,Feinstein,david_grannis@feinstein.senate.gov,202-224-3841
+CA,Justin,Schardin,Legislative Assistant/Economic Policy Adviser,Dianne,Feinstein,justin_schardin@feinstein.senate.gov,202-224-3841
+CA,Rachel,Bombach,Legislative Director,Dianne,Feinstein,rachel_bombach@feinstein.senate.gov,202-224-3841
+CA,David,Montes,Chief of Staff,Alejandro,Padilla,david_montes@padilla.senate.gov,202-224-3553
+CA,Josh,Esquivel,Legislative Director,Alejandro,Padilla,joshua_esquivel@padilla.senate.gov,202-224-3553
+CO,Jonathan,Davidson,Chief of Staff,Michael,Bennet,jonathan_davidson@bennet.senate.gov,202-224-5852
+CO,Kate,Connaughton,Legislative Aide,Michael,Bennet,kate_connaughton@bennet.senate.gov,202-224-5852
+CO,Brian,Appel,Legislative Director,Michael,Bennet,brian_appel@bennet.senate.gov,202-224-5852
+CO,Charlie,Anderson,Senior Adviser,Michael,Bennet,charlie_anderson@bennet.senate.gov,202-224-5852
+CO,Kirtan,Mehta,Chief of Staff,John,Hickenlooper,kirtan_mehta@hickenlooper.senate.gov,202-224-5941
+CO,Katie,Cassling,Legislative Director,John,Hickenlooper,katherine_cassling@hickenlooper.senate.gov,202-224-5941
+CT,Joel,Kelsey,Chief of Staff,Richard,Blumenthal*#,joel_kelsey@blumenthal.senate.gov,202-224-2823
+CT,Maya,Kalonia,Legislative Assistant,Richard,Blumenthal*#,maya_kalonia@blumenthal.senate.gov,202-224-2823
+CT,Colleen,Bell,Legislative Director,Richard,Blumenthal*#,colleen_bell@blumenthal.senate.gov,202-224-2823
+CT,Allison,Herwitt,Chief of Staff,Christopher,Murphy,allison_herwitt@murphy.senate.gov,202-224-4041
+CT,Lauren,Santabar,Counsel,Christopher,Murphy,lauren_santabar@murphy.senate.gov,202-224-4041
+DE,Emily,Spain,Chief of Staff,Thomas,Carper*,emily_spain@carper.senate.gov,202-224-2441
+DE,Lucy,Xiao,Legislative Director,Thomas,Carper*,lucy_xiao@carper.senate.gov,202-224-2441
+DE,Jon,Stahler,Chief of Staff,Christopher,Coons,jonathan_stahler@coons.senate.gov,202-224-5042
+DE,Shivani,Pampati,Legislative Correspondent,Christopher,Coons,shivani_pampati@coons.senate.gov,202-224-5042
+DE,Brian,Winseck,Legislative Director,Christopher,Coons,brian_winseck@coons.senate.gov,202-224-5042
+FL,Mike,Needham,Chief of Staff,Marco,Rubio,mike_needham@rubio.senate.gov,202-224-3041
+FL,Hunter,Koski,Legislative Correspondent,Marco,Rubio,hunter_koski@rubio.senate.gov,202-224-3041
+FL,Lauren,Reamy,Legislative Director,Marco,Rubio,lauren_reamy@rubio.senate.gov,202-224-3041
+FL,Craig,Carbone,Chief of Staff,Richard,Scott,craig_carbone@rickscott.senate.gov,202-224-5274
+FL,Jon,Foltz,Legislative Director,Richard,Scott,jon_foltz@rickscott.senate.gov,202-224-5274
+FL,Katie,Weissert,Senior Policy Adviser,Richard,Scott,katie_weissert@rickscott.senate.gov,202-224-5274
+GA,Mark,Libell,Chief of Staff,Raphael,Warnock,mark_libell@warnock.senate.gov,202-224-3643
+GA,Josh,Delaney,Legislative Director,Raphael,Warnock,josh_delaney@warnock.senate.gov,202-224-3643
+HI,Alan,Yamamoto,Chief of Staff,Mazie,Hirono,alan_yamamoto@hirono.senate.gov,808-522-8970
+HI,Benjamin,Strand,Legislative Assistant,Mazie,Hirono,ben_strand@hirono.senate.gov,202-224-6361
+HI,Jeremy,Horan,Legislative Director,Mazie,Hirono,jeremy_horan@hirono.senate.gov,202-224-6361
+HI,Eric,Einhorn,Chief of Staff,Brian,Schatz,eric_einhorn@schatz.senate.gov,202-224-3934
+HI,Arun,Revana,Legislative Director,Brian,Schatz,arun_revana@schatz.senate.gov,202-224-3934
+IA,Lisa,Goeas,Chief of Staff,Joni,Ernst,lisa_goeas@ernst.senate.gov,202-224-3254
+IA,Tyler,Brown,Legislative Assistant,Joni,Ernst,tyler_brown@ernst.senate.gov,202-224-3254
+IA,Jena,McNeill,Legislative Director,Joni,Ernst,jena_mcneill@ernst.senate.gov,202-224-3254
+IA,Aaron,Cummings,Chief of Staff,Chuck,Grassley,aaron_cummings@grassley.senate.gov,202-224-3744
+IA,James,Rice,Legislative Director,Chuck,Grassley,james_rice@grassley.senate.gov,202-224-3744
+ID,John,Hoehne,Chief of Staff,Michael,Crapo,john_hoehne@crapo.senate.gov,208-334-1776
+ID,Susan,Wheeler,D.C. Chief of Staff,Michael,Crapo,susan_wheeler@crapo.senate.gov,202-224-6142
+ID,Molly,Carpenter,Legislative Director,Michael,Crapo,molly_carpenter@crapo.senate.gov,202-224-6142
+ID,Ryan,White,Chief of Staff,James,Risch,ryan_white@risch.senate.gov,202-224-2752
+ID,Celia,Glassman,Legislative Assistant,James,Risch,celia_glassman@risch.senate.gov,202-224-2752
+ID,Charles,Adams,Legislative Director,James,Risch,charles_adams@risch.senate.gov,202-224-2752
+IL,Kaitlin,Fahey,Chief of Staff,Ladda,Duckworth*#,kaitlin_fahey@duckworth.senate.gov,202-224-2854
+IL,Alex,Johnson,Economic Policy Adviser,Ladda,Duckworth*#,alex_johnson@duckworth.senate.gov,202-224-2854
+IL,Ben,Rhodeside,Legislative Director,Ladda,Duckworth*#,benjamin_rhodeside@duckworth.senate.gov,202-224-2854
+IL,James,Floyd,Legislative Assistant,Richard,Durbin,james_floyd@durbin.senate.gov,202-224-2152
+IL,Jasmine,Dimitriou,Legislative Director,Richard,Durbin,jasmine_hunt@durbin.senate.gov,202-224-2152
+IN,Josh,Kelley,Chief of Staff,Mike,Braun,joshua_kelley@braun.senate.gov,202-224-4814
+IN,Allison,Feikes,Legislative Assistant,Mike,Braun,allison_feikes@braun.senate.gov,202-224-4814
+IN,Katie,Bailey,Legislative Director,Mike,Braun,katie_bailey@braun.senate.gov,202-224-4814
+IN,John,Connell,Chief of Staff,Todd,Young,john_connell@young.senate.gov,202-224-5623
+IN,Lauren,O'Brien,Legislative Director,Todd,Young,lauren_obrien@young.senate.gov,202-224-5623
+KS,Brent,Robertson,Chief of Staff,Roger,Marshall,brent_robertson@marshall.senate.gov,202-224-4774
+KS,Pace,McMullan,Legislative Director,Roger,Marshall,pace_mcmullan@marshall.senate.gov,202-224-4774
+KS,Brennen,Britton,Chief of Staff,Jerry,Moran*,brennen_britton@moran.senate.gov,202-224-6521
+KS,Tom,Bush,Legislative Director,Jerry,Moran*,tom_bush@moran.senate.gov,202-224-6521
+KY,Terry,Carmack,Chief of Staff,Addison,McConnell,terry_carmack@mcconnell.senate.gov,202-224-2541
+KY,Ali,Nepola,Legislative Assistant,Addison,McConnell,ali_nepola@mcconnell.senate.gov,202-224-2541
+KY,Katelyn,Bunning,Legislative Director,Addison,McConnell,katelyn_bunning@mcconnell.senate.gov,202-224-2541
+KY,William,Henderson,Chief of Staff,Randal,Paul,william_henderson@paul.senate.gov,202-224-4343
+LA,James,Quinn,Chief of Staff,William,Cassidy,james_quinn@cassidy.senate.gov,202-224-5824
+LA,Katie,Hadji,Legislative Director/General Counsel,William,Cassidy,katie_hadji@cassidy.senate.gov,202-224-5824
+LA,Katie,Hadji,Legislative Director/General Counsel,William,Cassidy,katie_hadji@cassidy.senate.gov,202-224-5824
+LA,David,Stokes,Chief of Staff,John,Kennedy,david_stokes@kennedy.senate.gov,202-224-4623
+LA,John,Steitz,Legislative Director,John,Kennedy,john_steitz@kennedy.senate.gov,202-224-4623
+LA,Natalia,Riggin,Senior Legislative Assistant,John,Kennedy,natalia_riggin@kennedy.senate.gov,202-224-4623
+MA,John,Walsh,Chief of Staff,Edward,Markey,john_walsh@markey.senate.gov,202-224-2742
+MA,Karlee,Popken,Legislative Aide,Edward,Markey,karlee_popken@markey.senate.gov,202-224-2742
+MA,Jeremy,D'Aloisio,Policy Adviser/Floor Manager,Edward,Markey,jeremy_daloisio@markey.senate.gov,202-224-2742
+MA,Jon,Donenberg,Chief of Staff,Elizabeth,Warren*,jon_donenberg@warren.senate.gov,202-224-4543
+MA,Beth,Pearson,Legislative Director,Elizabeth,Warren*,beth_pearson@warren.senate.gov,202-224-4543
+MD,Chris,Lynch,Chief of Staff,Benjamin,Cardin,chris_lynch@cardin.senate.gov,202-224-4524
+MD,Ron,Storhaug,Senior Adviser,Benjamin,Cardin,ron_storhaug@sbc.senate.gov,202-224-5175
+MD,Tricia,Russell,Chief of Staff,Christopher,Van Hollen*#,tricia_russell@vanhollen.senate.gov,202-224-4654
+MD,Sarah,Schenning,Legislative Director,Christopher,Van Hollen*#,sarah_schenning@vanhollen.senate.gov,202-224-4654
+MD,Harry,Stein,Policy Adviser,Christopher,Van Hollen*#,harry_stein@vanhollen.senate.gov,202-224-4654
+ME,Steve,Abbott,Chief of Staff,Susan,Collins,steve_abbott@collins.senate.gov,202-224-2523
+ME,Katie,Brown,Legislative Director/Chief Counsel,Susan,Collins,katie_brown@collins.senate.gov,202-224-2523
+ME,Kathleen,Connery Dawe,Chief of Staff,Angus,King,kathleen_connery_dawe@king.senate.gov,202-224-5344
+ME,Morgan,Cashwell,Legislative Director,Angus,King,morgan_cashwell@king.senate.gov,202-224-5344
+ME,Alex,Porter,Tax Counsel/Legislative Assistant,Angus,King,alex_porter@king.senate.gov,202-224-5344
+MI,Eric,Feldman,Chief of Staff,Gary,Peters,eric_feldman@peters.senate.gov,202-224-6221
+MI,Josh,Fendrick,Legislative Assistant,Gary,Peters,josh_fendrick@peters.senate.gov,202-224-6221
+MI,Matt,VanKuiken,Chief of Staff,Deborah,Stabenow,matt_vankuiken@stabenow.senate.gov,202-224-4822
+MI,Vernon,Baker,Legislative Assistant,Deborah,Stabenow,vernon_baker@stabenow.senate.gov,202-224-4822
+MI,Emily,Carwell,Legislative Director,Deborah,Stabenow,emily_carwell@stabenow.senate.gov,202-224-4822
+MN,Lizzy,Peluso,Chief of Staff,Amy,Klobuchar*#,elizabeth_peluso@rules.senate.gov,202-224-3244
+MN,Doug,Calidas,Legislative Director,Amy,Klobuchar*#,doug_calidas@klobuchar.senate.gov,202-224-3244
+MN,Doug,Calidas,Legislative Director,Amy,Klobuchar*#,doug_calidas@klobuchar.senate.gov,202-224-3244
+MN,Jeff,Lomonaco,Chief of Staff,Tina,Smith,jeff_lomonaco@smith.senate.gov,202-224-5641
+MN,Tim,Everett,"Deputy Legislative Director/Senior Adviser, Labor and Economic",Tina,Smith,tim_everett@smith.senate.gov,202-224-5641
+MN,Gohar,Sedighi,Legislative Director,Tina,Smith,gohar_sedighi@smith.senate.gov,202-224-5641
+MO,Paul,Guaglianone,Legislative Assistant,Roy,Blunt,paul_guaglianone@blunt.senate.gov,202-224-5721
+MO,Dan,Burgess,Legislative Director,Roy,Blunt,dan_burgess@blunt.senate.gov,202-224-5721
+MO,Kyle,Plotkin,Chief of Staff,Joshua,Hawley,kyle_plotkin@hawley.senate.gov,202-224-6154
+MO,Eric,Teetsel,Legislative Director,Joshua,Hawley,eric_teetsel@hawley.senate.gov,202-224-6154
+MS,Doug,Davis,Chief of Staff,Cindy,Hyde-Smith,doug_davis@hydesmith.senate.gov,202-224-5054
+MS,Josh,Peaster,Legislative Assistant,Cindy,Hyde-Smith,josh_peaster@hydesmith.senate.gov,202-224-5054
+MS,Tim,Wolverton,Legislative Director,Cindy,Hyde-Smith,tim_wolverton@hydesmith.senate.gov,202-224-5054
+MS,Michelle,Richardson,Chief of Staff,Roger,Wicker,michelle_richardson@wicker.senate.gov,202-224-6253
+MS,Tara,McGee,Legislative Assistant,Roger,Wicker,tara_mcgee@wicker.senate.gov,202-224-6253
+MS,Robert,Murray,Legislative Director,Roger,Wicker,robert_murray@wicker.senate.gov,202-224-6253
+MT,Jason,Thielman,Chief of Staff,Steven,Daines,jason_thielman@daines.senate.gov,202-224-2651
+MT,Dan,Gerig,Senior Policy Adviser/Legislative Director,Steven,Daines,dan_gerig@daines.senate.gov,202-224-2651
+MT,P.J.,Austin,Tax and Economic Policy Adviser,Steven,Daines,pj_austin@daines.senate.gov,202-224-2651
+MT,Dylan,Laslovich,Chief of Staff,Jon,Tester,dylan_laslovich@tester.senate.gov,202-224-2644
+MT,Elizabeth,Connolly,Legislative Assistant,Jon,Tester,elizabeth_connolly@tester.senate.gov,202-224-2644
+MT,Justin,Folsom,Legislative Director,Jon,Tester,justin_folsom@tester.senate.gov,202-224-2644
+NC,Natasha,Hickman,Chief of Staff,Richard,Burr#,natasha_hickman@burr.senate.gov,202-224-3154
+NC,Robert,Sneeden,Legislative Assistant,Richard,Burr#,robert_sneeden@burr.senate.gov,202-224-3154
+NC,Chris,Toppings,Legislative Director,Richard,Burr#,chris_toppings@burr.senate.gov,202-224-3154
+NC,Ted,Lehman,Chief of Staff,Thomas,Tillis,ted_lehman@tillis.senate.gov,202-224-6342
+NC,Ryan,Adam,Legislative Assistant,Thomas,Tillis,ryan_adam@tillis.senate.gov,202-224-6342
+NC,Shil,Patel,Legislative Director,Thomas,Tillis,shil_patel@tillis.senate.gov,202-224-6342
+NC,Shil,Patel,Legislative Director,Thomas,Tillis,shil_patel@tillis.senate.gov,202-224-6342
+ND,Mark,Gruman,Chief of Staff,Kevin,Cramer,mark_gruman@cramer.senate.gov,202-224-2043
+ND,Jason,Stverak,Deputy Chief of Staff,Kevin,Cramer,jason_stverak@cramer.senate.gov,202-224-2043
+ND,Micah,Chambers,Legislative Director,Kevin,Cramer,micah_chambers@cramer.senate.gov,202-224-2043
+ND,Tony,Eberhard,Chief of Staff,John,Hoeven,tony_eberhard@hoeven.senate.gov,202-224-2551
+ND,Tyler,Hardy,Deputy Legislative Director,John,Hoeven,tyler_hardy@hoeven.senate.gov,202-224-2551
+ND,Dan,Auger,Legislative Director,John,Hoeven,daniel_auger@hoeven.senate.gov,202-224-2551
+ND,Dan,Auger,Legislative Director,John,Hoeven,daniel_auger@hoeven.senate.gov,202-224-2551
+NE,Joe,Hack,Chief of Staff,Debra,Fischer,joe_hack@fischer.senate.gov,202-224-6551
+NE,Emily,Leviner,Deputy Chief of Staff/Legislative Director,Debra,Fischer,emily_leviner@fischer.senate.gov,202-224-6551
+NE,Mitch,Erdel,Legislative Assistant,Debra,Fischer,mitch_erdel@fischer.senate.gov,202-224-6551
+NE,Ray,Sass,Chief of Staff,Benjamin,Sasse,raymond_sass@sasse.senate.gov,202-224-4224
+NE,Matt,Stross,Legislative Assistant,Benjamin,Sasse,matt_stross@sasse.senate.gov,202-224-4224
+NE,Patrick,Lehman,Legislative Director,Benjamin,Sasse,patrick_lehman@sasse.senate.gov,202-224-4224
+NE,Patrick,Lehman,Legislative Director,Benjamin,Sasse,patrick_lehman@sasse.senate.gov,202-224-4224
+NH,Kelly,Boyer,Chief of Staff,Margaret,Hassan*#,kelly_boyer@hassan.senate.gov,202-224-3324
+NH,Dave,Christie,Legislative Director,Margaret,Hassan*#,dave_christie@hassan.senate.gov,202-224-3324
+NH,Jay,Weismuller,"Senior Policy Adviser, Tax and Innovation",Margaret,Hassan*#,jay_weismuller@hassan.senate.gov,202-224-3324
+NH,Chad,Kreikemeier,Chief of Staff,Jeanne,Shaheen,chad_kreikemeier@shaheen.senate.gov,202-224-2841
+NH,Robert,Henson,Legislative Assistant,Jeanne,Shaheen,robert_henson@shaheen.senate.gov,202-224-2841
+NH,Ariel,Marshall,Legislative Director,Jeanne,Shaheen,ariel_marshall@shaheen.senate.gov,202-224-2841
+NJ,Matt,Klapper,Chief of Staff,Cory,Booker,matt_klapper@booker.senate.gov,202-224-3224
+NJ,Veronica,Duron,Legislative Director,Cory,Booker,veronica_duron@booker.senate.gov,202-224-3224
+NJ,Fred,Turner,Chief of Staff,Robert,Menendez,fred_turner@menendez.senate.gov,202-224-4744
+NJ,Rebecca,Schatz,Legislative Director,Robert,Menendez,rebecca_schatz@menendez.senate.gov,202-224-4744
+NJ,Jason,Tuber,Senior Adviser,Robert,Menendez,jason_tuber@menendez.senate.gov,202-224-4744
+NM,Rebecca,Avitia,Chief of Staff,Martin,Heinrich,rebecca_avitia@heinrich.senate.gov,202-224-5521
+NM,Simon,Boyce,Legislative Counsel,Martin,Heinrich,simon_boyce@heinrich.senate.gov,202-224-5521
+NM,Dominic,Saavedra,Legislative Director,Martin,Heinrich,dominic_saavedra@heinrich.senate.gov,202-224-5521
+NM,Carlos,Sanchez,Chief of Staff,Ben Ray,Lujan,carlos_sanchez@lujan.senate.gov,202-224-6621
+NM,Graham,Mason,Legislative Director,Ben Ray,Lujan,graham_mason@lujan.senate.gov,202-224-6621
+NV,Rey,Benitez,Chief of Staff,Catherine,Cortez Masto,reynaldo_benitez@cortezmasto.senate.gov,202-224-3542
+NV,Joleen,Rivera,Legislative Director/Chief Counsel,Catherine,Cortez Masto,joleen_rivera@cortezmasto.senate.gov,202-224-3542
+NV,Bridget,Kelleher,Senior Policy Adviser,Catherine,Cortez Masto,bridget_kelleher@cortezmasto.senate.gov,202-224-3542
+NV,Dara,Cohen,Chief of Staff,Jacky,Rosen*,dara_cohen@rosen.senate.gov,202-224-6244
+NV,Grant,Dubler,Legislative Director,Jacky,Rosen*,grant_dubler@rosen.senate.gov,202-224-6244
+NV,Alejandro,Renteria,Policy Adviser,Jacky,Rosen*,alejandro_renteria@rosen.senate.gov,202-224-6244
+NY,Jess,Fassler,Chief of Staff,Kirsten,Gillibrand#,jess_fassler@gillibrand.senate.gov,202-224-4451
+NY,Keith,Castaldo,General Counsel,Kirsten,Gillibrand#,keith_castaldo@gillibrand.senate.gov,202-224-4451
+NY,Brooke,Jamison,Legislative Director,Kirsten,Gillibrand#,brooke_jamison@gillibrand.senate.gov,202-224-4451
+NY,Meghan,Taira,Legislative Director,Charles,Schumer,meghan_taira@schumer.senate.gov,202-224-6542
+OH,Sarah,Benzing,Chief of Staff,Sherrod,Brown*#,sarah_benzing@brown.senate.gov,202-224-2315
+OH,Chad,Bolt,Legislative Assistant,Sherrod,Brown*#,chad_bolt@brown.senate.gov,202-224-2315
+OH,Jeremy,Hekhuis,Legislative Director,Sherrod,Brown*#,jeremy_hekhuis@brown.senate.gov,202-224-2315
+OH,Kevin,Smith,Chief of Staff,Robert,Portman,kevin_smith@portman.senate.gov,202-224-3353
+OH,Michael,Sinacore,Economic Policy Adviser,Robert,Portman,michael_sinacore@portman.senate.gov,202-224-3353
+OH,Anne,Gordon,Tax Counsel,Robert,Portman,anne_gordon@portman.senate.gov,202-224-3353
+OK,Luke,Holland,Chief of Staff,James,Inhofe,luke_holland@inhofe.senate.gov,202-224-4721
+OK,Dan,Hillenbrand,Legislative Director,James,Inhofe,dan_hillenbrand@inhofe.senate.gov,202-224-4721
+OK,Dan,Hillenbrand,Legislative Director,James,Inhofe,dan_hillenbrand@inhofe.senate.gov,202-224-4721
+OK,Michelle,Altman,Chief of Staff,James,Lankford,michelle_altman@lankford.senate.gov,202-224-5754
+OK,Sarah,Seitz,Legislative Director,James,Lankford,sarah_seitz@lankford.senate.gov,202-224-5754
+OK,Erica,Stephens,Special Assistant/Intern Coordinator,James,Lankford,erica_stephens@lankford.senate.gov,202-224-5754
+OK,Julia,Prus,Tax Legislative Assistant,James,Lankford,julia_prus@lankford.senate.gov,202-224-5754
+OR,Mike,Zamore,Chief of Staff,Jeffrey,Merkley*,michael_zamore@merkley.senate.gov,202-224-3753
+OR,Elvia,Montoya,Legislative Director,Jeffrey,Merkley*,elvia_montoya@merkley.senate.gov,202-224-3753
+OR,Allison,Hunn,Policy Adviser,Jeffrey,Merkley*,allison_hunn@merkley.senate.gov,202-224-3753
+OR,Nicole,L'Esperance,"Chief Communications Adviser/Deputy Policy Director, Domestic Policy",Ronald,Wyden*,nicole_lesperance@wyden.senate.gov,202-224-5244
+OR,Jeff,Michels,Chief of Staff,Ronald,Wyden*,jeff_michels@wyden.senate.gov,202-224-5244
+OR,Rachel,Lang,Legislative Aide,Ronald,Wyden*,rachel_lang@wyden.senate.gov,202-224-5244
+OR,Isaiah,Akin,Legislative Director,Ronald,Wyden*,isaiah_akin@wyden.senate.gov,202-224-5244
+OR,Emily,Zahnle-Hostetler,Senior Digital Strategy Director,Ronald,Wyden*,emily_zahnle-hostetler@wyden.senate.gov,202-224-5244
+PA,Kristen,Gentile,Chief of Staff,Robert,Casey*#,kris_gentile@casey.senate.gov,202-224-6324
+PA,Derek,Miller,Legislative Director,Robert,Casey*#,derek_miller@casey.senate.gov,202-224-6324
+PA,Livia,Shmavonian,Senior Policy Adviser,Robert,Casey*#,livia_shmavonian@casey.senate.gov,202-224-6324
+PA,Dan,Brandt,Chief of Staff,Patrick,Toomey*#,daniel_brandt@toomey.senate.gov,202-224-4254
+PA,Christian,Chelak,Legislative Aide,Patrick,Toomey*#,christian_chelak@toomey.senate.gov,202-224-4254
+PA,Theo,Merkel,Legislative Director,Patrick,Toomey*#,theo_merkel@toomey.senate.gov,202-224-4254
+RI,Neil,Campbell,Chief of Staff,John,Reed*,neil_campbell@reed.senate.gov,202-224-4642
+RI,Elyse,Wasch,D.C. Deputy Chief of Staff/Legislative Director,John,Reed*,elyse_wasch@reed.senate.gov,202-224-4642
+RI,Renuka,Nagaraj,Legislative Counsel,John,Reed*,renuka_nagaraj@reed.senate.gov,202-224-4642
+RI,Sam,Goodstein,Chief of Staff,Sheldon,Whitehouse*#,sam_goodstein@whitehouse.senate.gov,202-224-2921
+RI,Josh,Karetny,Legislative Director,Sheldon,Whitehouse*#,josh_karetny@whitehouse.senate.gov,202-224-2921
+RI,Josh,Karetny,Legislative Director,Sheldon,Whitehouse*#,josh_karetny@whitehouse.senate.gov,202-224-2921
+SC,Richard,Perry,Chief of Staff,Lindsey,Graham,richard_perry@lgraham.senate.gov,202-224-5972
+SC,Nick,Myers,Senior Counsel,Lindsey,Graham,nick_myers@lgraham.senate.gov,202-224-5972
+SC,Jennifer,DeCasper,Chief of Staff,Timothy,Scott,jennifer_decasper@scott.senate.gov,202-224-6121
+SC,Emily,Lavery,Legislative Assistant,Timothy,Scott,emily_lavery@scott.senate.gov,202-224-6121
+SC,Chuck,Cogar,Legislative Director,Timothy,Scott,chuck_cogar@scott.senate.gov,202-224-6121
+SD,Rob,Skjonsberg,Chief of Staff,Michael,Rounds,rob_skjonsberg@rounds.senate.gov,605-224-1450
+SD,Andrew,Rothe,Legislative Director,Michael,Rounds,andrew_rothe@rounds.senate.gov,202-224-5842
+SD,Andrew,Rothe,Legislative Director,Michael,Rounds,andrew_rothe@rounds.senate.gov,202-224-5842
+SD,Ryan,Nelson,Chief of Staff,John,Thune,ryan_nelson@thune.senate.gov,202-224-2321
+SD,Jessica,McBride,Deputy Chief of Staff/Legislative Director,John,Thune,jessica_mcbride@thune.senate.gov,202-224-2321
+TN,Charles,Flint,Chief of Staff,Marsha,Blackburn,charles_flint@blackburn.senate.gov,202-224-3344
+TN,Sean,Farrell,Legislative Director,Marsha,Blackburn,sean_farrell@blackburn.senate.gov,202-224-3344
+TN,John,Rader,Chief of Staff,William,Hagerty,john_rader@hagerty.senate.gov,202-224-4944
+TX,Beth,Jafari,Chief of Staff,John,Cornyn,beth_jafari@cornyn.senate.gov,202-224-2934
+TX,Andrew,Siracuse,Counsel,John,Cornyn,andrew_siracuse@cornyn.senate.gov,202-224-4515
+TX,Stephen,Tausend,Legislative Director,John,Cornyn,stephen_tausend@judiciary-rep.senate.gov,202-224-2934
+TX,Steve,Chartan,Chief of Staff,Rafael,Cruz,steve_chartan@cruz.senate.gov,202-224-5922
+TX,Chris,Jaarda,Legislative Director,Rafael,Cruz,chris_jaarda@cruz.senate.gov,202-224-5922
+UT,Allyson,Bell,Chief of Staff,Michael,Lee,allyson_bell@lee.senate.gov,202-224-5444
+UT,John,Shelton,Legislative Assistant,Michael,Lee,john_shelton@lee.senate.gov,202-224-5444
+UT,Christy,Woodruff,Legislative Director,Michael,Lee,christy_woodruff@lee.senate.gov,202-224-5444
+UT,Liz,Johnson,Chief of Staff,Willard,Romney,liz_johnson@romney.senate.gov,202-224-5251
+UT,Stephen,Newton,Legislative Assistant,Willard,Romney,stephen_newton@romney.senate.gov,202-224-5251
+VA,Mike,Henry,Chief of Staff,Timothy,Kaine,mjh@kaine.senate.gov,202-224-4024
+VA,Paul,Lapointe,Legislative Assistant,Timothy,Kaine,paul_lapointe@kaine.senate.gov,202-224-4024
+VA,Nick,Barbash,Legislative Director,Timothy,Kaine,nick_barbash@kaine.senate.gov,202-224-4024
+VA,Elizabeth,Falcone,Chief of Staff,Mark,Warner,elizabeth_falcone@warner.senate.gov,202-224-2023
+VA,Sebastien,Lasseur,Legislative Aide,Mark,Warner,sebastien_lasseur@warner.senate.gov,202-224-2023
+VA,Lauren,Marshall,Legislative Director,Mark,Warner,lauren_marshall@warner.senate.gov,202-224-2023
+VA,Craig,Radcliffe,Tax and Banking Counsel,Mark,Warner,craig_radcliffe@warner.senate.gov,202-224-2023
+VT,J.P.,Dowd,Chief of Staff,Patrick,Leahy*,john_dowd@leahy.senate.gov,202-224-4242
+VT,Jeff,Van Oot,Legislative Assistant,Patrick,Leahy*,jeff_van_oot@leahy.senate.gov,202-224-4242
+VT,Erica,Chabot,Legislative Director,Patrick,Leahy*,erica_chabot@leahy.senate.gov,202-224-4242
+VT,Misty,Rebik,Chief of Staff,Bernard,Sanders,misty_rebik@sanders.senate.gov,202-224-5141
+VT,Liam,Fagan,Legislative Correspondent,Bernard,Sanders,liam_fagan@sanders.senate.gov,202-224-5141
+VT,Ari,Rabin-Havt,Legislative Director,Bernard,Sanders,ari_rabin-havt@sanders.senate.gov,202-224-5141
+WA,Jami,Burgess,Chief of Staff,Maria,Cantwell,jami_burgess@cantwell.senate.gov,202-224-3441
+WA,David,Marten,Legislative Director,Maria,Cantwell,david_marten@cantwell.senate.gov,202-224-3441
+WA,Lara,Muldoon,"Senior Adviser, Tax and Economic",Maria,Cantwell,lara_muldoon@cantwell.senate.gov,202-224-3441
+WA,Mindi,Linquist,Chief of Staff,Patricia,Murray,mindi_linquist@murray.senate.gov,202-224-2621
+WA,Ben,Merkel,Legislative Director,Patricia,Murray,ben_merkel@murray.senate.gov,202-224-2621
+WA,Zach,Mallove,Senior Policy Adviser,Patricia,Murray,zach_mallove@murray.senate.gov,202-224-2621
+WI,Ken,Reidy,Chief of Staff,Tammy,Baldwin*#,ken_reidy@baldwin.senate.gov,202-224-5653
+WI,Dan,McCarthy,Legislative Director,Tammy,Baldwin*#,dan_mccarthy@baldwin.senate.gov,202-224-5653
+WI,Meghan,Ladwig,Senior Policy Adviser/Appropriations Director,Tammy,Baldwin*#,meghan_ladwig@baldwin.senate.gov,202-224-5653
+WI,Sean,Riley,Chief of Staff,Ronald,Johnson,sean_riley@ronjohnson.senate.gov,202-224-5323
+WI,Pat,McIlheran,Deputy Chief of Staff,Ronald,Johnson,patrick_mcilheran@ronjohnson.senate.gov,202-224-5323
+WI,Alexis,Alber,Legal Counsel,Ronald,Johnson,alexis_alber@ronjohnson.senate.gov,202-224-5323
+WI,Courtney,Rutland,Legislative Director/Chief Counsel,Ronald,Johnson,courtney_rutland@ronjohnson.senate.gov,202-224-5323
+WV,Joel,Brubaker,Chief of Staff,Shelley,Capito,joel_brubaker@capito.senate.gov,202-224-6472
+WV,J.T.,Jezierski,Legislative Director,Shelley,Capito,jt_jezierski@capito.senate.gov,202-224-6472
+WV,Kevin,Carson,Chief Counsel,Joseph,Manchin,kevin_carson@manchin.senate.gov,202-224-3954
+WV,Lance,West,Chief of Staff,Joseph,Manchin,lance_west@manchin.senate.gov,202-224-3954
+WV,Wes,Kungel,Legislative Director,Joseph,Manchin,wes_kungel@manchin.senate.gov,202-224-3954
+WY,J.R.,Kane,Legislative Assistant,John,Barrasso,jr_kane@barrasso.senate.gov,202-224-6441
+WY,Bryn,Stewart,Legislative Director,John,Barrasso,bryn_stewart@barrasso.senate.gov,202-224-6441
+WY,Kristin,Walker,Chief of Staff,Cynthia,Lummis,kristin_walker@lummis.senate.gov,202-224-3424
+WY,Darrin,Munoz,Legislative Director,Cynthia,Lummis,darrin_munoz@lummis.senate.gov,202-224-3424
